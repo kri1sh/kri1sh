@@ -1,7 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm Krishn! </h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="KrishnPatel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][X]
+[<img align="left" alt="KrishnPatel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[X]: https://x.com/_krrish1
+[linkedin]: https://www.linkedin.com/in/krishxpatel/
 
 <!--
-**kri1sh/kri1sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
